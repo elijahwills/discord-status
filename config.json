@@ -1,0 +1,17 @@
+{
+    "icons": {
+        "none": "",
+        "minor": "",
+        "major": "",
+        "critical": "",
+        "unknown": ""
+    },
+    "colors": {
+        "none": "",
+        "minor": "",
+        "major": "",
+        "critical": "",
+        "unknown": ""
+    },
+    "channel_id": ""
+}
